@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Rosidi</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🔭 I’m a fresh graduate of the **Arabic Language Education Program at UIN Sunan Ampel Surabaya**
+- 🔭 I’m a freshgraduate at **UIN Sunan Ampel Surabaya**
 - 🌱 I’m currently learning **Fullstack JavaScript**
 - 📫 How to reach me: **muhfarros28@gmail.com**
 - ⚡ Fun fact: **I can speak Arabic fluently**
