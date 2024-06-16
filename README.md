@@ -6,8 +6,6 @@
 - 📫 How to reach me: **muhfarros28@gmail.com**
 - ⚡ Fun fact: **I can speak Arabic fluently**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadFarhanRosidi)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
 <a href="https://github.com/MuhammadFarhanRosidi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadFarhanRosidi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
