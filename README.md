@@ -105,6 +105,24 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
   </a>
+  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
+      <img src="https://miro.medium.com/v2/resize:fit:840/1*KKciGBpSE9sxj8aZ1Xdu-w.png" alt="ejs" width="80" height="40" />
+  </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40" />
+  </a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+      <img src="https://miro.medium.com/v2/resize:fit:1200/1*cQ8JTEvKMKaBhovYI2mncQ.png" alt="axios" width="80" height="40" />
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+      <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="expo" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">
