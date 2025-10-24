@@ -10,9 +10,9 @@
 - ⚡ Fun fact: **I can speak Arabic fluently**
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MuhammadFarhanRosidi]/[MuhammadFarhanRosidi]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[MuhammadFarhanRosidi]/[MuhammadFarhanRosidi]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[MuhammadFarhanRosidi]/[MuhammadFarhanRosidi]/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFarhanRosidi/MuhammadFarhanRosidi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFarhanRosidi/MuhammadFarhanRosidi/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadFarhanRosidi/MuhammadFarhanRosidi/output/pacman-contribution-graph.svg">
 </picture>
 
 <h3 align="left">Connect with me:</h3>
